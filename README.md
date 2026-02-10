@@ -60,5 +60,6 @@ This task helps in understanding **algorithm selection**, a critical skill used 
 ---
 
 #Outputs:
-
+<img width="800" height="377" alt="Image" src="https://github.com/user-attachments/assets/91fd412c-c7dc-42f6-b328-ca581c7327c8" />
+<img width="1286" height="729" alt="Image" src="https://github.com/user-attachments/assets/bcda6271-b82d-4806-ad89-e8bebd0e0c5f" />
 
